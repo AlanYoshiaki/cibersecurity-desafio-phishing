@@ -14,7 +14,7 @@ Este é um projeto proposto por **Cassiano**, professor na **DIO** (escola de ed
 **Phishing** é um termo derivado de palavras combinadas em inglês: *"fishing"* (pesca) e as letras *"ph"*, que substituem o "f" da palavra *"password"* (senha).  
 A ideia desse termo é uma **metáfora** com a pesca: assim como o pescador lança um anzol para pescar um peixe, o criminoso/golpista lança uma "isca" para a vítima a fim de **"pescar"** — ou seja, induzir a vítima a cair em um erro e capturar dados sensíveis.
 
-## 🛑 Como Funciona o Phishing?
+### 🛑 Como Funciona o Phishing?
 
 Phishing é um **crime digital** simples, mas extremamente eficaz. Ele visa capturar dados sensíveis da vítima, como:
 
@@ -32,11 +32,11 @@ Os **golpes** podem ser direcionados a uma pessoa ou a um grupo de pessoas, freq
 
 Além disso, os golpistas costumam utilizar **links falsos** que imitam páginas legítimas, como um site de login de um banco, por exemplo, para enganar a vítima. Em muitos casos, eles se passam por uma **autoridade** ou por alguém de confiança da vítima.
 
-## 🎯 O Impacto do Phishing
+### 🎯 O Impacto do Phishing
 
 Esses ataques não se limitam ao mundo virtual. O phishing também explora aspectos emocionais e de manipulação, tornando-se um golpe que pode atingir diretamente empresas ou até envolver interações físicas. Embora muitas vezes os golpistas se aproveitem da vulnerabilidade virtual, em alguns casos, o ataque é **presencial**, com golpistas indo até o local da vítima.
 
-## 🔍 Tipos de Phishing
+### 🔍 Tipos de Phishing
 
 Existem vários tipos de phishing, incluindo:
 
@@ -46,7 +46,7 @@ Existem vários tipos de phishing, incluindo:
 4. **Smishing**: Phishing via mensagem de texto (SMS), muitas vezes com links maliciosos.
 5. **Whaling**: Um tipo de phishing direcionado a executivos de alto nível ou pessoas com acesso a informações valiosas dentro de uma organização.
 
-## 🚨 Conclusão
+### 🚨 Conclusão:
 
 > **Phishing** é um crime digital simples, mas extremamente eficaz e com um grande impacto, tanto no mundo virtual quanto no físico, que visa capturar dados sensíveis da vítima. Ele é um conjunto de várias técnicas que está sempre em evolução, sendo uma das ameaças mais crescentes globalmente. Portanto, as equipes de segurança precisam estar atentas a essas mudanças e trabalhar para **conscientizar** as pessoas sobre os riscos envolvidos.
 
@@ -63,7 +63,7 @@ Existem vários tipos de phishing, incluindo:
 
 ### ⚙ Configurando o Phishing no Kali Linux:
 
-Primeiramente, se você estiver usando uma máquina virtual, precisará se conectar à sua rede. Acesse as configurações da máquina e selecione a opção **"Rede"**. Feito isso, clique em "Conectado a", provavelmente estará em modo **"NAT"**, escolha a opção **"Placa em modo Bridge"**. Agora, o seu Kali estará conectado à sua rede, podendo se comunicar com outros dispositivos.
+Primeiramente, se você estiver usando uma máquina virtual, precisará se conectar à sua rede. Antes de iniciar a máquina virtual, acesse as configurações e selecione a opção **'Rede'**. Em seguida, clique em 'Conectado a'. Provavelmente, estará em modo **'NAT'**. Escolha a opção **'Placa em modo Bridge'**. Agora, o seu Kali estará conectado à sua rede e poderá se comunicar com outros dispositivos.
 
 Abra o terminal e siga o passo a passo abaixo:
 
@@ -80,6 +80,18 @@ Agora, basta copiar o **IP** da sua máquina Kali e acessar de qualquer disposit
 
 > 🔒 O **HTTPS** é a versão segura do **HTTP**, que utiliza **criptografia** para proteger os dados. O "S" no final indica justamente essa camada adicional de segurança, tornando a comunicação protegida e confiável. Essa é a importância do protocolo **HTTPS**.
 
-### 🖥 Resutados
 
-![Alt text](./finalResult "Optional title")
+<div align="center">
+
+# 🖥 Resutados
+
+### 🎯 PC do alvo:
+
+![Alt text](./target.png "PC do alvo")
+
+
+### 👨‍💻 PC do golpista:
+
+![Alt text](./attacker.png "PC do golpista")
+
+</div>
