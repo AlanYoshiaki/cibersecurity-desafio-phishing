@@ -11,7 +11,8 @@ Este é um projeto proposto por **Cassiano**, professor na **DIO** (escola de ed
 
 # 👀 O que é "Phishing"?
 
-**Phishing** é um termo derivado de palavras combinadas em inglês: *"fishing"* (pesca) e as letras *"ph"*, que substituem o "f" da palavra *"password"* (senha).  
+**Phishing** é um termo derivado da palavra inglesa *'fishing'* (pesca), que faz uma analogia ao ato de *'pescar'* informações, usando *'ph'* para remeter a um crime relacionado à senha.
+
 A ideia desse termo é uma **metáfora** com a pesca: assim como o pescador lança um anzol para pescar um peixe, o criminoso/golpista lança uma "isca" para a vítima a fim de **"pescar"** — ou seja, induzir a vítima a cair em um erro e capturar dados sensíveis.
 
 ### 🛑 Como Funciona o Phishing?
