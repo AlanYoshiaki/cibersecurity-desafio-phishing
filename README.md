@@ -30,7 +30,7 @@ Os **golpes** podem ser direcionados a uma pessoa ou a um grupo de pessoas, freq
 - **Telefone**
 - **Mensagem de texto**
 
-Além disso, os golpistas costumam utilizar **links falsos** que imitam páginas legítimas, como um site de login de um banco, por exemplo, para enganar a vítima. Em muitos casos, eles se passam por uma **autoridade** ou por alguém de confiança da vítima.
+Além disso, os golpistas costumam utilizar **links falsos** que imitam páginas legítimas (como o nosso projeto, embora sejam mais elaborados). Eles podem criar um site de login de um banco, por exemplo, para enganar a vítima. Em muitos casos, eles se passam por uma **autoridade** ou por alguém de confiança da vítima. Um e-mail se passando por uma autoridade, contendo **download** de um software em beta, com anexos, como um PDF, etc.
 
 ### 🎯 O Impacto do Phishing
 
@@ -48,7 +48,7 @@ Existem vários tipos de phishing, incluindo:
 
 ### 🚨 Conclusão:
 
-> **Phishing** é um crime digital simples, mas extremamente eficaz e com um grande impacto, tanto no mundo virtual quanto no físico, que visa capturar dados sensíveis da vítima. Ele é um conjunto de várias técnicas que está sempre em evolução, sendo uma das ameaças mais crescentes globalmente. Portanto, as equipes de segurança precisam estar atentas a essas mudanças e trabalhar para **conscientizar** as pessoas sobre os riscos envolvidos.
+> **Phishing** é um crime digital simples, mas extremamente eficaz e com grande impacto, tanto no mundo virtual quanto no físico, que visa capturar dados sensíveis da vítima ou obter acesso a a contas, sistemas ou informações privadas. Ele é um conjunto de várias técnicas que está sempre em evolução, sendo uma das ameaças mais crescentes globalmente. Portanto, as equipes de segurança precisam estar atentas a essas mudanças e trabalhar para **conscientizar** as pessoas sobre os riscos envolvidos.
 
 <div align="center">
 
